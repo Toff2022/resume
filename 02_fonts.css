@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16;
+    line-height: 20px;
+    font-weight: bold;
+    /* text-decoration: underline; */
+    font: normal 20px 'Roboto' sans-serif;
+    /* text-decoration: line-through;*/
+    /*font-style: italic; */
+    /* letter-spacing: 10px; */
+    /* word-spacing: 5px; */
+    color: #0f141e;
+    background: #f1f1f1;
+}
+
+.work {
+    font-style: italic;
+    font-weight: 900;
+}
+.html {
+    color: #df4c26;
+}
+.css {
+    color: #1c61a7;
+}
+.js {
+    color: #e5bb23;
+}
