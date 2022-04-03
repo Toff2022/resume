@@ -97,7 +97,7 @@ body {
     width: 100%;
 }
 .hobbi1 {
-    background-image: url(/img/wild2.jpg);
+    background-image: url(img/wild2.jpg);
     background-size: cover;
     color: #ddd;
 
@@ -111,7 +111,7 @@ body {
     box-sizing: border-box;
 }
 .hobbi2 {
-    background-image: url(/img/progr.jpg) ;
+    background-image: url(img/progr.jpg) ;
     background-size: cover;
     color: #ddd;
     margin-top: 10px;
@@ -125,7 +125,7 @@ body {
 }
 
 .hobbi3 {
-    background-image: url(/img/history20_1.jpg);
+    background-image: url(img/history20_1.jpg);
     background-size: contain repeat-no;
     color: #ddd;
     margin-top: 10px;
@@ -138,7 +138,7 @@ body {
     box-sizing: border-box;
 }
 .hobbi4 {
-    background-image: url(/img/sw2.jpg) ;
+    background-image: url(img/sw2.jpg) ;
     background-size: cover;
     color: #ddd;
     margin-top: 10px;
